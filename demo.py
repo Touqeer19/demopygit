@@ -1,5 +1,2 @@
 print("hello")
 print("welcome touqeer")
-print("hello")
-print("welcome touqeer")
-print("hello")
